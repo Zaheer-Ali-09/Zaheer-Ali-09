@@ -13,7 +13,7 @@ Hi 👋 I'm Zaheer Ali<br><br>I'm a passionate Frontend Web Developer from Pakis
 ---
 [![](https://visitcount.itsvg.in/api?id=Zaheer-Ali-09&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
 
 <!--
 **Zaheer-Ali-09/Zaheer-Ali-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
